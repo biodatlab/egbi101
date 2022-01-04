@@ -2,7 +2,7 @@
 
 Table of contents
 
-- Git on the cloud services
+- Git on cloud services
 - Installation
   - Windows
   - Mac OS
@@ -12,7 +12,10 @@ Table of contents
   - Common commands
 - Setting up Git
 - Create your first repository
+  - Branching
 - How do people contribute to the open source project?
-- Real world tips
+  - Example use-cases
+  - Real open-source project codebase
+- Real-world tips
 
 More details on [Notion's page](https://bluenex.notion.site/EGBI101-Workshop-5949a23a96de4875976434007380e6b3)
