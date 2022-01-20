@@ -1,17 +1,30 @@
 # Introduction to Python Programming
 
+## 1. Installation
 
-
-## Installation
+### 1.1 Run Jupytor Locally  
 
 - Download [Anaconda](https://www.anaconda.com/products/individual) to your local computer
-- If you use the command line installer, run `bash Anaconda3-2021.11-MacOSX-x86_64.sh` (for MacOS)
-- Check if you point the path correctly to Anaconda by running following commands on terminal.
 
-```sh
-which python
-which ipython
-```
+    #### A. Mac OSX / Linux
+
+    - If you use the command line installer, run `bash Anaconda3-2021.11-MacOSX-x86_64.sh` (for MacOS)
+    - Check if you point the path correctly to Anaconda by running following commands on terminal.
+
+    ```sh
+    which python
+    which ipython
+    ```
+
+    #### B. Windows 
+
+    - Run `Anaconda3-2021.11-Windows-x86_64.exe`
+    - Check if you point the path correctly to Anaconda by running following commands on `Anaconda Prompt`.
+
+    ```sh
+    where python
+    where ipython
+    ```
 
 ## Create your first Jupyter notebook
 
@@ -23,6 +36,8 @@ jupyter notebook
 
 Then goes to `localhost:8888` (default port) and the create a new notebook.
 Generally, we use a 
+
+
 
 ## Basic Python Programming
 
