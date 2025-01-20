@@ -23,4 +23,4 @@ This [jupyter notebook](https://github.com/wieheistdu/egbi101/blob/main/python-p
 - Some extra-questions to strengthen your Python basic skill!
 
 
-Some exercises are adapted from [30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python/tree/master).
+Some contents and exercises are adapted from [30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python/tree/master).
