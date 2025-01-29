@@ -10,7 +10,7 @@ In this class, we'll use Google Colab, a free cloud-based platform that allows y
 - Import and export notebooks easily
 
 # 
-This [jupyter notebook](https://github.com/wieheistdu/egbi101/blob/main/python-programming/introduction_to_python.ipynb) will give you the fundamental details of Python programming and some hands-on biomedical related exercises to boost up your skills. The topics consist of:
+You can try running this [Jupyter Notebook](https://github.com/wieheistdu/egbi101/blob/main/python-programming/introduction_to_python.ipynb) and clicking the "Open in Colab" button to open it in the Colabolaratory notebook. This notebook provides fundamental details of Python programming along with hands-on biomedical-related exercises to enhance your skills. The topics covered include:
 
 - Variables and Built-in Functions
 - Strings
@@ -21,6 +21,5 @@ This [jupyter notebook](https://github.com/wieheistdu/egbi101/blob/main/python-p
 - Loops
 - Functions
 - Some extra-questions to strengthen your Python basic skill!
-
 
 Some contents and exercises are adapted from [30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python/tree/master).
